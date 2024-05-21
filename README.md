@@ -1,4 +1,4 @@
-# website-image-gallery
+# Image Gallery Website
 
 ## References
 
