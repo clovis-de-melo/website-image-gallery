@@ -7,51 +7,71 @@
 }
 
 h1 {
-    color: #4b5563;
-    font-weight: 300;
     text-align: center;
-    margin-top: 40px;
+    /*border: 1px solid red;*/
+    /*background-color: blanchedalmond;*/
+    color: #22d3ee;
+    margin-top: 50px;
 }
 
+p {
+  /*border: 1px solid red;*/
+  margin-top: 50px;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;  
+}
 
-#animals-row-one {
+#container-1 {
     display: flex;
-    border: solid 1px red;
-    margin-top: 40px;
+    justify-content: space-evenly;
+    align-items: center;
+    /*border: 1px solid red;*/
+    height: 400px;
+    margin-top: 20px;
+}
+
+.card-1 {
+    border: 1px solid gray;
     height: 250px;
+    width: 250px;
+    box-sizing: border-box;
+}
+
+.card-2 {
+    border: 1px solid gray;
+    height: 250px;
+    width: 250px;
+}
+
+.card-3 {
+    border: 1px solid gray;
+    height: 250px;
+    width: 250px;
+}
+
+#container-2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /*border: 1px solid red;*/
+    height: 400px;
+    margin-top: 20px;
+}
+
+
+#container-3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /*border: 1px solid red;*/
+    height: 400px;
+    margin-top: 20px;
+}
+
+.description {
+    /*padding-top: 20px;*/
+    border: 1px solid red;
     text-align: center;
+    vertical-align: baseline;
 }
-
-.animal-one {
-    border: solid 1px green;
-    display: inline-block;
-    height: 240px;
-    width: 240px;
-}
-
-.animal-two {
-    border: solid 1px green;
-    display: inline-block;
-    height: 240px;
-    width: 240px;
-}
-
-.animal-three {
-    border: solid 1px green;
-    display: inline-block;
-    height: 240px;
-    width: 240px;
-}
-
-.animal-four {
-    border: solid 1px green;
-    display: inline-block;
-    height: 240px;
-    width: 240px;
-}
-
-.image-one {
-    height: 240px;
-    width: 240px;
-}
-
