@@ -12,3 +12,6 @@
 
 ```Color guidance```
 [Tailwind - Customizing colors](https://tailwindcss.com/docs/customizing-colors)
+
+````Image gallery```
+[W3 Schools - Image gallery](https://www.w3schools.com/css/css_image_gallery.asp)
